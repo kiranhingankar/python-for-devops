@@ -1,0 +1,8 @@
+INFO: Server started
+INFO: Application deployed
+WARNING: CPU usage reached 75%
+ERROR: Database connection failed
+INFO: Database connection recovered
+WARNING: Memory usage reached 80%
+ERROR: API request failed
+INFO: Server health check completed
