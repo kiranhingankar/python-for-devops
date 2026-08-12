@@ -1,0 +1,6 @@
+Deployment Report
+-----------------
+Application: Localshop
+Version: v1.0.0
+Environment: production
+Status: sucess

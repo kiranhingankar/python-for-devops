@@ -1,0 +1,6 @@
+Server Health Report
+--------------------
+Server Name: web-03
+CPU Usage: 45%
+RAM Usage: 30%
+Status: HEALTHY
